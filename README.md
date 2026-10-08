@@ -4,6 +4,12 @@ Spring Boot, Spring Data JPA, PostgreSQL y Swagger. Java 21.
 
 Producto: id (Long, generado), nombre (String), precio (Double), stock (Integer), categoria (String).
 
+## Enlaces de entrega
+
+- [Codigo en GitHub](https://github.com/fiscoyaeli-bit/sis414-productos)
+- [Swagger en Render](https://sis414-productos.onrender.com/swagger-ui/index.html)
+- [Listado de productos](https://sis414-productos.onrender.com/api/productos)
+
 ## Endpoints
 
 | Metodo | Ruta | Resultado |
